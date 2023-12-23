@@ -1,2 +1,1 @@
-# weiorwei.github.io
-这是一个项目
+# HnadWritten Generator Based on WGan
