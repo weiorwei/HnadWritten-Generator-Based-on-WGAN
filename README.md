@@ -1,1 +1,1 @@
-# HnadWritten Generator Based on WGan
+# HnadWritten Generator Based on WGAN
